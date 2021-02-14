@@ -83,6 +83,8 @@ http://arduinodev.com/codeblocks/
 # Simuino
 https://sites.google.com/site/adcajo
 
+https://code.google.com/archive/p/simuino/
+
 # arduinosim
 https://sourceforge.net/projects/arduinosim/
 
@@ -104,17 +106,22 @@ https://github.com/Paulware/ArduinoDebugger/
 # CodeBlocks Arduino IDE (API-level Arduino simulator)
 http://arduinodev.com/codeblocks/
 
+# emulino
+https://github.com/ghewgill/emulino
 
+# Atmel Studio 6 – The Integrated Development Environment
+https://atmega32-avr.com/download-avr-studio-6/#:~:text=Atmel%C2%AE%20Studio%206%20is,C%2FC%2B%2B%20or%20assembly%20code.
 
+# Emulare
+http://emulare.sourceforge.net/
 
+# simavr
+https://github.com/buserror/simavr
 
+# FastLEDs simulation page
+https://wokwi.com/arduino/libraries/FastLED
 
-
-
-
-
-
-
+# 
 
 
 

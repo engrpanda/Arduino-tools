@@ -1,7 +1,9 @@
 # Arduino-tools
 
-# arduino stuff
+# arduino stuff compiled
 link - http://kio4.com/arduino/index.htm
+
+http://www.smashingrobotics.com/arduino-simulators-lineup-start-developing-without-real-board/
 
 # Simplot
 * This tools is used for visualization of real time data. The tool accepts data over serial port and plots it in real time on the screen. 
@@ -66,9 +68,41 @@ link - https://n.mtng.org/ele/arduino/iarduino.html
 # Speech Recognition with Arduino and BitVoicer Server
 link - https://www.hackster.io/msb4180/speech-recognition-with-arduino-and-bitvoicer-server-460477
 
+# Xevro
+https://xevro.be/
 
+# Virtronics Simulator for Arduino
+http://virtronics.com.au/Simulator-for-Arduino.html
 
+# fritzing
+https://fritzing.org/
 
+# CodeBlocks Arduino IDE
+http://arduinodev.com/codeblocks/
+
+# Simuino
+https://sites.google.com/site/adcajo
+
+# arduinosim
+https://sourceforge.net/projects/arduinosim/
+
+# tinkercad
+https://www.tinkercad.com/learn/circuits
+
+# yenka
+https://www.yenka.com/
+
+# virtualbreadboard
+https://www.virtualbreadboard.com/
+
+# library io
+https://library.io/
+
+# ArduinoDebugger
+https://github.com/Paulware/ArduinoDebugger/
+
+# CodeBlocks Arduino IDE (API-level Arduino simulator)
+http://arduinodev.com/codeblocks/
 
 
 
